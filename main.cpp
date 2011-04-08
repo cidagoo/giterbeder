@@ -2,7 +2,9 @@
 
 int main()
 {
-	cout "Git TEST";
+	cout << "Git TEESTER";
 	
+	cout << "nuclear power";
+		
 	return 0;
 }
